@@ -1,0 +1,11 @@
+body{
+    margin: auto;
+    background-color: aqua;
+    border-radius: 10px;
+    border-top: 10px;
+    float: none;
+    text-align: left;
+}
+#send_btn{
+    background-color: transparent;
+}

@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+    margin: auto;
+}
+.background-img{
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login_div1 , .login_div2{
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+#player1_name_input{
+    background: transparent;
+}
